@@ -4,9 +4,8 @@ import (
 	"log"
 	"net"
 	"time"
-
-	"github.com/fari-proxy/encryption"
-	"github.com/fari-proxy/service"
+	"../../encryption"
+	"../../service"
 )
 
 type client struct {

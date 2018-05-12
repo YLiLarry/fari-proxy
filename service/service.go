@@ -4,8 +4,8 @@ import (
 	"crypto/aes"
 	"errors"
 	"fmt"
-	"github.com/fari-proxy/encryption"
-	"github.com/fari-proxy/http"
+	"../encryption"
+	"../http"
 	"io"
 	"net"
 )

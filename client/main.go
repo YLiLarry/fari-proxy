@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"flag"
-	"github.com/fari-proxy/client/util"
+	"./util"
 	"io/ioutil"
 	"log"
 )
